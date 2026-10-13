@@ -1,7 +1,7 @@
 {
-  "provider": "openai",
+  "provider": "gemini",
   "models": {
     "openai": "gpt-4o-mini",
-    "gemini": "gemini-2.5-flash"
+    "gemini": "gemini-3.8-flash"
   }
 }
